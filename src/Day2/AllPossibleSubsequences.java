@@ -2,7 +2,7 @@ package Day2;
 
 import java.util.TreeSet;
 
-public class RecursivelyRemoveAdjacentDuplicates {
+public class AllPossibleSubsequences {
     static boolean isVowel(char c) {
         return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
     }
